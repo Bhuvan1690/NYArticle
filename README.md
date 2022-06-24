@@ -1,7 +1,7 @@
 
 # NYArticle
 
-This is a simple app to show list of some most viewed articles from NewYork Times. Find neat and clean design for article, App will show detail screen as in 
+This is a simple app to show list of some most viewed articles. Find neat and clean design, App have detail screen of article as in 
 pagination form where you can access other article via scrolling. 
 
 
